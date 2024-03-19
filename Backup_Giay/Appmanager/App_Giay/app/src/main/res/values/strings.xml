@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Quản Lý</string>
+    <string name="gi_250000">Giá: 250000 đ</string>
+    <string name="th_m_v_o_gi_h_ng">Thêm vào giỏ hàng</string>
+    <string name="ng_nh_p">Đăng Nhập</string>
+
+</resources>
